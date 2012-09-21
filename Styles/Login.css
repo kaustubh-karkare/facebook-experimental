@@ -1,0 +1,32 @@
+table.login-page { width:100%; }
+table.login-page * { font-family:'Tahoma'; font-size:12px; }
+table.login-page td.sides { width:50%; }
+table.login-page td.sides-top { background:#627AAC; }
+
+table.login-page td.l11 div { background:#627AAC; width:100%; height:80px; overflow:hidden; }
+table.login-page td.l12 { background:#627AAC; padding:2px; padding-top:10px; }
+table.login-page td.l12 div { position:relative; top:2px; }
+table.login-page td.l12 a { color:white; }
+table.login-page td.l22 { background:#627AAC; padding:2px; padding-bottom:0px; }
+table.login-page td.l22 input { width:160px; border:1px solid #1D2A5B; font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.login-page td.l23 { background:#627AAC; padding:2px; }
+table.login-page td.l23 input { background:#627AAC; color:#FFFFFF; font-size:13px; font-weight:bold; font-family:'Tahoma'; border:1px solid black; padding:4px; }
+
+table.login-page td.l32 { padding:2px; padding-top:0px; background:#627AAC; color:white; }
+table.login-page td.l32 div { position:relative; top:-2px; }
+table.login-page td.l32 input { border:1px solid #1D2A5B; }
+table.login-page td.l32 a { color:#89A9CA; }
+
+table.login-page td.l41 { padding:10px; padding-top:80px; font-size:20px; font-weight:bold; color:#203360; vertical-align:top; text-align:center; }
+table.login-page td.l42 div { height:441px; padding:10px; padding-top:40px; border:0px solid #627AAC; }
+
+table.login-page td.l42 td.ca11 { font-size:20px; font-weight:bold; color:#203360; }
+table.login-page td.l42 td.ca12 { font-size:20px; font-weight:normal; color:#203360; }
+table.login-page td.l42 td.ca21 { text-align:right; color:#203360; }
+table.login-page td.l42 td.ca22 input { width:100%; border:1px solid #96A6C5; padding:4px; margin:4px; font-size:14px; }
+table.login-page td.l42 td.ca22 select { border:1px solid #96A6C5; padding:4px; margin:4px; font-size:14px; }
+table.login-page td.l42 td.ca31 input { width:100px; height:30px; background:#69A64D; color:#FFFFFF; font-size:13px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; margin:4px; }
+table.login-page td.l42 td.ca41 { height:10px; }
+table.login-page td.l42 td.ca42 { height:10px; border-top:1px solid #1D4088; }
+table.login-page td.l42 td.ca43 { text-align:center; padding:10px; }
+table.login-page td.l42 td.ca43 a { color:#1D4088; }

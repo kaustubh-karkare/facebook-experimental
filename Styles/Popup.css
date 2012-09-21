@@ -1,0 +1,96 @@
+table.popup-container { position:fixed; top:0; left:0; width:100%; height:100%; display:none; background:rgba(0,0,0,0.5); z-index:1000; }
+table.popup-container td.sides { width:50%; height:500; }
+table.popup-container td.mid { vertical-align:middle; }
+table.popup-container table.border { border:10px solid rgba(10%,10%,10%,0.5); }
+
+table.popup-box { width:400px; z-index:100; }
+table.popup-box td { font-family:'Tahoma'; }
+table.popup-box td a { font-family:'Tahoma'; font-weight:bold; }
+table.popup-box td.head { padding:8px; background:#6D84B4; color:#FFFFFF; font-size:16px; font-weight:bold; border-top:1px solid #29447E; border-left:1px solid #29447E; border-right:1px solid #29447E; }
+table.popup-box td.data { background:#FFFFFF; color:#000000; font-size:12px; border-left:1px solid #555555; border-right:1px solid #555555; }
+table.popup-box td.data div.con { height:200px; overflow:auto; padding:4px; vertical-align:middle; }
+table.popup-box td.data div.con table { width:100%; text-align:left; }
+table.popup-box td.data div.con table th { padding:4px; font-family:'Tahoma'; border-bottom:1px solid #CCCCCC; color:#555555; width:100px; vertical-align:top; }
+table.popup-box td.data div.con table td { padding:4px; font-family:'Tahoma'; border-bottom:1px solid #CCCCCC; }
+table.popup-box td.data div.con table td p { font-family:'Tahoma'; padding:2px; }
+table.popup-box td.data div.con table td b { font-family:'Tahoma'; font-weight:bold; }
+table.popup-box td.data div.con table td input.text { width:100%; font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.popup-box td.data div.con table td textarea { width:100%; height:60px; font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.popup-box td.data div.con table td img.preview { width:170px; border:1px solid black; margin:2px; }
+
+table.popup-box td.data div.con table td div.div_mesname { font-family:'Tahoma'; font-size:12px; }
+table.popup-box td.data div.con table td div.div_mesname span { font-family:'Tahoma'; font-size:10px; }
+table.popup-box td.foot { background:#F2F2F2; text-align:right; padding:8px; border-top:1px solid #CCCCCC; border-left:1px solid #555555; border-right:1px solid #555555; border-bottom:1px solid #555555; }
+table.popup-box td.foot input.close { background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+
+
+
+
+
+
+
+table.droplist-container { display:none; position:absolute; }
+table.droplist-container td.space { width:10px; border:0; }
+table.droplist-container th.top {  border-top:1px solid black; border-left:1px solid black; border-right:0px solid black; border-bottom:1px solid black; background:#FFFFFF; }
+table.droplist-container th.top img { padding:4px; }
+table.droplist-container td.head { border-top:1px solid black; border-left:0px solid black; border-right:1px solid black; border-bottom:1px solid #CCCCCC; background:#FFFFFF; text-align:left; font-family:'Tahoma'; padding-left:4px; font-weight:bold; }
+table.droplist-container td.data { border-top:0px solid black; border-left:1px solid black; border-right:1px solid black; border-bottom:0px solid black; background:#DDDDDD; }
+table.droplist-container td.foot { border-top:0px solid black; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black; text-align:right; padding:4px; background:#DDDDDD; }
+table.droplist-container td.foot input { background:#627AAC; border:1px solid #29447E; color:white; font-weight:bold; font-size:14px; font-family:'Tahoma'; padding:4px; }
+table.droplist-container td div { text-align:left; width:200px; height:150px; overflow:auto; border:1px solid #CCCCCC; padding:2px; margin:2px; background:#EEEEEE; }
+table.droplist-container td div p { font-family:'Tahoma'; padding:2px; }
+table.droplist-container td div a { font-family:'Tahoma'; }
+
+table.droplist-account { display:none; position:absolute; width:160px; }
+table.droplist-account td { background:white; padding:4px; }
+table.droplist-account td.space { background:transparent; border-bottom:1px solid black; }
+table.droplist-account td.top { border:1px solid black; border-bottom:0px solid white; text-align:center; height:30px; width:71px; }
+table.droplist-account td.top a { font-family:'Tahoma'; font-weight:bold; color:black; }
+table.droplist-account td.profile { border-left:1px solid black; border-right:1px solid black; }
+table.droplist-account td.profile a { font-family:'Tahoma'; color:blue; font-weight:bold; }
+table.droplist-account td.hr { border-left:1px solid black; border-right:1px solid black; padding:4px; }
+table.droplist-account td.hr div { border:1px solid white; width:149px; background:#AAAAAA; height:1px; }
+table.droplist-account td.option { border-left:1px solid black; border-right:1px solid black; padding:4px; height:20px; }
+table.droplist-account td.option { font-family:'Tahoma'; color:blue; font-size:11px; padding-left:10px; cursor:pointer; }
+table.droplist-account td.option:hover { background:#627AAD; border-top:1px solid #3B5998; border-bottom:1px solid #3B5998; color:white; }
+table.droplist-account td.option:hover a { color:white; }
+table.droplist-account td.bottom { height:5px; border:1px solid black; border-top:0px solid white; }
+
+table.droplist-search { display:none; position:absolute; width:397px; border:1px solid black; background:white; }
+table.droplist-search td.text { padding:4px; font-family:'Tahoma'; }
+
+
+
+table.droplist-top { display:none; position:absolute; width:300px; z-index:100; }
+table.droplist-top td { background:white; padding:4px; font-family:'Tahoma'; font-size:11px; }
+table.droplist-top td.space { background:transparent; width:275px; padding:0; border-bottom:1px solid black; }
+table.droplist-top td.top { border:1px solid black; border-bottom:0px solid white; width:25px; padding:0px; }
+table.droplist-top td.top img { cursor:pointer; }
+table.droplist-top td.head { border-left:1px solid black; border-right:1px solid black; }
+table.droplist-top td.head td { border-bottom:1px solid #AAAAAA; }
+table.droplist-top td.head td.left { text-align:left; font-size:13px; font-family:'Tahoma'; font-weight:bold; }
+table.droplist-top td.head td.right { text-align:right; }
+table.droplist-top td.head td.right a { font-size:11px; font-family:'Tahoma'; }
+
+table.droplist-top td.text { border-left:1px solid black; border-right:1px solid black; }
+table.droplist-top td.text table { width:100%; }
+table.droplist-top td.text td a { font-size:11px; font-family:'Tahoma'; font-weight:bold; }
+table.droplist-top td.text div { font-family:'Tahoma'; font-size:12px; }
+table.droplist-top td.text div td { font-family:'Tahoma'; font-size:11px; padding:2px; margin:4px; }
+table.droplist-top td.text div td.old1 { width:10px; }
+table.droplist-top td.text div td.new1 { background:#ECEFF5; border:1px solid blue; border-right:0px solid white; width:10px; }
+table.droplist-top td.text div td.new2 { background:#ECEFF5; border:1px solid blue; border-left:0px solid white; }
+table.droplist-top td.text div td a.link { font-family:'Tahoma'; font-size:11px; font-weight:normal; }
+table.droplist-top td.text div td n,
+table.droplist-top td.text div td n a { font-family:'Tahoma'; font-size:11px; color:808080; }
+table.droplist-top td.text div td a img { float:left; width:40px; padding:2px; border:0px solid white; }
+table.droplist-top td.text div td span.type1 { font-family:'Tahoma'; font-size:11px; color:#404040; }
+table.droplist-top td.text div td span.type2 { font-family:'Tahoma'; font-size:10px; color:#808080; }
+table.droplist-top td.text div td.thin { width:50px; }
+table.droplist-top td.text div td input.confirm { background:#627AAC; color:#FFFFFF; font-size:12px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+table.droplist-top td.text div td input.ignore { background:#EEEEEE; color:#222222; font-size:12px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+
+table.droplist-top td.foot a { font-family:'Tahoma'; font-size:11px; }
+table.droplist-top td.foot { text-align:center; border:1px solid black; border-top:1px solid #E0E0E0; background:#F7F7F7; }
+table.droplist-top td.foot:hover { background:#6D84B4; }
+table.droplist-top td.foot:hover a { color:white; }

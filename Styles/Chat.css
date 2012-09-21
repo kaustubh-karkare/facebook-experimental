@@ -1,0 +1,37 @@
+table.chatbox-container td { vertical-align:bottom;  }
+
+table.chatbox-user { width:200px; }
+table.chatbox-user td.cu11 { background:#6D84B4; padding:2px; border-top:1px solid #254588; border-left:1px solid #254588; }
+table.chatbox-user td.cu11 img { position:absolute; height:50px; width:50px; border:1px solid #254588; }
+table.chatbox-user td.cu11 div { margin-left:56px; height:15px; width:100px; overflow:hidden; }
+table.chatbox-user td.cu11 div a { font-family:'Tahoma'; font-size:12px; color:white; font-weight:bold; }
+table.chatbox-user td.cu12 { background:#6D84B4; padding:4px; border-top:1px solid #254588; border-right:1px solid #254588; width:30px; text-align:right; }
+table.chatbox-user td.cu12 img { padding-left:2px; border:0px solid white; }
+table.chatbox-user td.cu21 { background:#EEEEEE; border-left:1px solid #777777; border-right:1px solid #777777; height:38px; }
+table.chatbox-user td.cu31 { background:#FFFFFF; padding:2px; border-left:1px solid #777777; border-right:1px solid #777777; border-bottom:1px solid #CCCCCC; }
+table.chatbox-user td.cu31 a { font-family:'Tahoma'; font-size:11px; }
+table.chatbox-user td.cu41 { background:#FFFFFF; border-left:1px solid #777777; border-right:1px solid #777777; }
+table.chatbox-user td.cu41 div { width:190; overflow:auto; height:114px; padding:4px;  }
+table.chatbox-user td.cu41 div p { font-family:'Tahoma'; font-size:12px; padding-left:10px; text-indent:-10px; }
+table.chatbox-user td.cu41 div a { font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#3B5998; }
+table.chatbox-user td.cu41 div b { font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#333333; }
+table.chatbox-user td.cu41 div n { font-family:'Tahoma'; font-size:11px; color:#808080; padding:2px; }
+table.chatbox-user td.cu51 { background:#FFFFFF; border-left:1px solid #777777; border-right:1px solid #777777; padding:2px; }
+table.chatbox-user td.cu51 img { height:15px; padding-right:4px; position:relative; top:2px; }
+table.chatbox-user td.cu51 input { width:175; height:20px; font-family:'Tahoma'; font-size:12px; }
+table.chatbox-user td.cu61 { background:#EEEEEE; padding:4px; border-left:1px solid #777777; border-top:1px solid #777777; }
+table.chatbox-user td.cu61 div { height:15px; width:150px; overflow:hidden; }
+table.chatbox-user td.cu61 div a { font-family:'Tahoma'; font-size:12px; color:#333333; font-weight:bold; }
+table.chatbox-user td.cu62 { background:#EEEEEE; padding:4px; border-right:1px solid #777777; text-align:right; border-top:1px solid #777777; }
+
+table.chatbox-index { width:200px; }
+table.chatbox-index td.ci11 { background:#6D84B4; padding:4px; border-top:1px solid #254588; border-left:1px solid #254588; }
+table.chatbox-index td.ci11 { font-family:'Tahoma'; font-size:12px; color:white; font-weight:bold; }
+table.chatbox-index td.ci12 { background:#6D84B4; padding:4px; border-top:1px solid #254588; border-right:1px solid #254588; width:20px; text-align:right; }
+table.chatbox-index td.ci21 { background:#EEEEEE; padding:4px; border-left:1px solid #808080; border-bottom:1px solid #808080; border-right:1px solid #808080; }
+table.chatbox-index td.ci21 a { font-family:'Tahoma'; font-size:12px; color:#333333; font-weight:bold; }
+table.chatbox-index td.ci31 { background:white; border-left:1px solid #808080; border-right:1px solid #808080; padding:4px; }
+table.chatbox-index td.ci31 p { padding:2px; font-family:'Tahoma'; font-size:12px; }
+table.chatbox-index td.ci31 p a span { font-family:'Tahoma'; font-size:12px; cursor:pointer; position:relative; top:-6px; }
+table.chatbox-index td.ci41 { height:24px; background:#EEEEEE; padding:4px; border:1px solid #777777; border-bottom:0px solid #777777; cursor:pointer; }
+table.chatbox-index td.ci41 a { font-family:'Tahoma'; font-size:12px; color:#333333; font-weight:bold; }

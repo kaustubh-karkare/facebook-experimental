@@ -1,0 +1,14 @@
+table.ajax-search-results { width:395; border-top:1px solid transparent; border-bottom:1px solid transparent; }
+table.ajax-search-results td { padding:4px; }
+table.ajax-search-results td a { font-family:'Tahoma'; font-size:11px; }
+table.ajax-search-results td { font-family:'Tahoma'; font-size:11px; }
+table.ajax-search-results td.left { width:40px; }
+table.ajax-search-results td.middle a { font-weight:bold; font-size:12px; }
+table.ajax-search-results td.right { width:100px; text-align:right; }
+
+table.ajax-search-results th { padding:4px; background:#F7F7F7; border-top:1px solid #DDDDDD; }
+table.ajax-search-results th a { font-family:'Tahoma'; font-size:11px; font-weight:normal; }
+
+table.ajax-search-results:hover td { background:#6D84B4; border-top:1px solid #1D4088; border-bottom:1px solid #1D4088; cursor:pointer; color:white; }
+table.ajax-search-results:hover th { background:#6D84B4; border-top:1px solid #1D4088; cursor:pointer; }
+table.ajax-search-results:hover a { color:white; }

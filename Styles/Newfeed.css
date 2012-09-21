@@ -1,0 +1,30 @@
+table.newsfeed-container { width:525px; margin:10px; border-bottom:1px solid #E9E9E9; }
+table.newsfeed-container td.pic { vertical-align:top; width:20px; }
+table.newsfeed-container td.pic img {  }
+table.newsfeed-container td.text1 { text-align:left; vertical-align:top; font-family:'Tahoma'; font-size:12px; padding:10px; padding-top:0px; }
+table.newsfeed-container td.text1 a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.newsfeed-container td.cmnt { padding-left:10px; padding-bottom:10px; }
+
+table.newsfeed-container td.photo { padding-left:10px; padding-bottom:10px; }
+table.newsfeed-container td.photo td { font-family:'Tahoma'; font-size:12px; vertical-align:top; }
+table.newsfeed-container td.photo td a { font-family:'Tahoma'; font-size:12px; }
+table.newsfeed-container td.photo td a b { font-family:'Tahoma'; font-size:12px; }
+table.newsfeed-container td.photo td span { font-family:'Tahoma'; font-size:12px; color:#404040; }
+table.newsfeed-container td.photo td span a { font-family:'Tahoma'; font-size:12px; }
+table.newsfeed-container td.photo td span.bold a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.newsfeed-container td.photo td div img { border:1px solid #CCCCCC; width:100px; float:left; margin-right:7px; padding:3px; background:#FFFFFF;
+	-o-transition: all 0.5s; -moz-transition: all 0.5s; -webkit-transition: all 0.5s; }
+table.newsfeed-container td.photo td div img:hover { width:200px; }
+table.newsfeed-container td.photo td span img { height:10px; }
+
+table.newsfeed-container td.write1 { padding:4px; border:1px solid #808080; border-bottom:0px solid white; background:#EEEEEE; }
+table.newsfeed-container td.write2 { padding:4px; font-family:'Tahoma'; font-size:12px; border-left:1px solid #808080; border-bottom:1px solid #808080; background:#EEEEEE; }
+table.newsfeed-container td.write3 { padding:4px; text-align:right; border-right:1px solid #808080; border-bottom:1px solid #808080; background:#EEEEEE; }
+table.newsfeed-container td.write1 textarea { width:100%; height:50px; font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.newsfeed-container td.write3 input { background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+
+table.newsfeed-container td.text2 { font-family:'Tahoma'; font-size:12px; padding:10px; padding-top:0px; }
+table.newsfeed-container td.text2 a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.newsfeed-container td.det1 { padding:2px; width:10px; padding-left:15px; }
+table.newsfeed-container td.det2 { padding:2px; font-family:'Tahoma'; font-size:12px; vertical-align:top; }
+table.newsfeed-container td.det2 a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }

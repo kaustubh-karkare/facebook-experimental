@@ -1,0 +1,38 @@
+table.album-list-container { width:600px; margin:20px; background:#EEEEEE; border:1px solid #CCCCCC; margin-top:10px; }
+table.album-list-container td.pic { width:150px; padding:10px; }
+table.album-list-container td.pic img { border:1px solid #CCCCCC; padding:4px; background:#FFFFFF; width:150px;
+	-o-transition: all 0.5s; -moz-transition: all 0.5s;-webkit-transition: all 0.5s; }
+table.album-list-container td.pic img:hover { width:300px; }
+table.album-list-container td.info { padding:20px; }
+table.album-list-container td.info p { font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.album-list-container td.info p a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+
+table.album-head-container { width:600px; margin:20px; margin-bottom:0px; }
+table.album-head-container th { font-family:'Tahoma'; font-size:16px; text-align:left; }
+
+table.album-list-container td.pic2 { width:150px; padding:10px; }
+table.album-list-container td.pic2 img { border:1px solid #CCCCCC; padding:4px; background:#FFFFFF; width:100px;
+	-o-transition: all 0.5s; -moz-transition: all 0.5s;-webkit-transition: all 0.5s; }
+table.album-list-container td.pic2 img:hover { width:178px; }
+
+table.album-make-container { width:600px; margin:20px; background:#EEEEEE; border:1px solid #CCCCCC; }
+table.album-make-container th { text-align:center; font-family:'Tahoma'; font-size:14px; padding:10px; }
+table.album-make-container td { text-align:center; font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.album-make-container td input { width:400px; font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.album-make-container td input.submit { background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+
+
+
+table.album-edit-container { width:800px; margin:10px; background:#EEEEEE; border:1px solid #CCCCCC; }
+table.album-edit-container th { text-align:center; font-family:'Tahoma'; font-size:14px; padding:10px; }
+table.album-edit-container td { text-align:center; font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.album-edit-container td.left { width:150px; }
+table.album-edit-container td.mid { text-align:left; vertical-align:middle; width:60px; }
+table.album-edit-container td.opt1 { text-align:left; vertical-align:bottom; width:100px; height:50px; }
+table.album-edit-container td.opt2 { text-align:left; vertical-align:top; width:100px; height:40px; }
+table.album-edit-container td.opt3 textarea { width:400px; height:50px; margin:10px; font-family:'Tahoma'; font-size:12px; padding:4px; }
+
+table.album-edit-container td.mid input.text,
+table.album-edit-container td.mid input.file { width:600px; font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.album-edit-container td.mid input.submit { width:200px; background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+table.album-edit-container td.mid input.cancel { width:200px; background:#F8F8F8; color:#222222; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid black; padding:4px; }

@@ -1,0 +1,1 @@
+<?php include("../../Include/HTML.php"); echo html_accessdenied(); ?>

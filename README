@@ -1,0 +1,8 @@
+Facebook Experimental
+
+This is a social networking website with an interface identical to that of the real Facebook in August 2010. It features profiles, friends, posts, comments, photos (with tagging), pages, events, groups, messages, notifications, chat and searches, which are updated in real-time.
+Technologies Used : HTML, CSS, JavaScript (with Ajax), PHP, a file-based self-designed database system.
+
+This system is NOT scalable. The purpose of creating this website was only to get familiar with Web Designing technologies.
+
+Creator : Kaustubh Karkare

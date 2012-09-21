@@ -1,0 +1,132 @@
+table.event-left-container { width:200px; }
+table.event-left-container td.e12 { height:10px; border-bottom:1px solid #CCCCCC; } 
+table.event-left-container td.e21 { width:150px; font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#666666; padding:4px; padding-top:10px; }
+table.event-left-container td.e22 { padding:4px; padding-top:10px; }
+table.event-left-container td.e22 a { font-family:'Tahoma'; font-size:12px; }
+table.event-left-container td.e31 { width:10px; padding:2px; }
+table.event-left-container td.e32 { width:190px; padding:2px; }
+table.event-left-container td.e32 a { font-family:'Tahoma'; font-size:12px;  }
+table.event-left-container td.e41 img { margin:2px; }
+table.event-left-container td.e51 { font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.event-left-container td.e51 a { font-family:'Tahoma'; font-size:12px;  }
+
+
+
+
+
+
+
+
+
+
+
+table.event-mid-container { width:525px; margin:10px; }
+table.event-mid-container td { padding:4px; }
+table.event-mid-container td.e11 { font-family:'Tahoma'; font-size:18px; font-weight:bold; }
+table.event-mid-container td.e11 input { background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; margin:2px; }
+table.event-mid-container td.e12 { border-bottom:2px solid #CCCCCC; font-family:'Tahoma'; font-size:12px; color:#222222; padding-bottom:10px; }
+table.event-mid-container td.e12 a { font-family:'Tahoma'; font-size:12px; }
+table.event-mid-container td.e31 { font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#666666; border-bottom:1px solid #CCCCCC; }
+table.event-mid-container td.e32 { font-family:'Tahoma'; font-size:12px; border-bottom:1px solid #CCCCCC; }
+table.event-mid-container td.e32 a { font-family:'Tahoma'; font-size:12px; }
+table.event-mid-container td.e41 { height:40px; }
+table.event-mid-container td.e51 { font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#222222; border-top:2px solid #CCCCCC; border-bottom:1px solid #CCCCCC; }
+table.event-mid-container td.e52 { text-align:right; border-top:2px solid #CCCCCC; border-bottom:1px solid #CCCCCC; }
+table.event-mid-container td.e52 a { font-family:'Tahoma'; font-size:12px; }
+
+
+
+
+
+
+
+
+
+
+
+table.event-edit-container { width:525px; margin:10px; border:1px solid #B3B3B3; }
+table.event-edit-container td { background:#EEEEEE; padding:10px; }
+table.event-edit-container h2 { font-family:'Tahoma'; font-size:18px; font-weight:bold; color:black; padding:10px; }
+table.event-edit-container h2 a { font-family:'Tahoma'; font-size:12px; font-weight:normal; color:blue; }
+table.event-edit-container p { padding:4px; }
+table.event-edit-container p a { font-family:'Tahoma'; font-size:12px; }
+table.event-edit-container td.e21 { font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#222222; width:150px; }
+table.event-edit-container td.e22 { font-family:'Tahoma'; font-size:10px;  }
+table.event-edit-container td.e22 input { width:100%; padding:2px; border:1px solid #BDC7D8; font-family:'Tahoma'; font-size:12px; }
+table.event-edit-container td.e22 input.button { width:160px; background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; margin:2px; }
+table.event-edit-container td.e22 input.checkbox { width:13px; }
+table.event-edit-container td.e22 select { padding:2px; border:1px solid #BDC7D8; font-family:'Tahoma'; font-size:12px; margin-right:4px; }
+table.event-edit-container td.e22 textarea { width:100%; padding:2px; border:1px solid #BDC7D8; font-family:'Tahoma'; font-size:12px; }
+table.event-edit-container td.e23 { font-family:'Tahoma'; font-size:12px;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table.event-right-container { width:225px; margin-bottom:25px; border-left:3px solid #E5E5E5; }
+table.event-right-container th { font-family:'Tahoma'; font-size:12px; border-bottom:1px solid #E5E5E5; padding:8px; font-weight:bold; text-align:left;  }
+table.event-right-container th a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.event-right-container td.e1 { padding:4px; padding-bottom:10px; }
+table.event-right-container td.e1 p { font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.event-right-container td.e1 p a b { font-family:'Tahoma'; font-size:12px; }
+table.event-right-container td.e1 p a { font-family:'Tahoma'; font-size:12px; }
+table.event-right-container td.e1 img { width:50px; float:left; border:1px solid black; margin:4px; }
+table.event-right-container td.e2 { height:20px; border-top:1px solid #CCCCCC; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table.event-index-container { width:525px; margin:10px; }
+table.event-index-container td.e11 div { padding:5px; margin-bottom:20px; background:#EEEEEE; border:1px solid #CCCCCC; font-family:'Tahoma'; font-size:12px; }
+table.event-index-container td.e21 { width:25px; padding:4px; vertical-align:top; padding-bottom:10px; }
+table.event-index-container td.e22 { width:500px; padding:4px; padding-bottom:10px; }
+table.event-index-container td.e22 p h a { font-family:'Tahoma'; font-size:14px; font-weight:bold; }
+table.event-index-container td.e22 p { font-family:'Tahoma'; font-size:12px; color:#444444; }
+table.event-index-container td.e22 a { font-family:'Tahoma'; font-size:12px; }
+table.event-index-container td.e31 { height:20px; border-top:1px solid #DDDDDD; }
+
+table.event-index-container td.e51 { border:1px solid #CCCCCC; border-bottom:0px solid #CCCCCC; background:#EEEEEE; font-size:16px; font-weight:bold; text-align:center; padding:4px; }
+table.event-index-container td.e52 { border-left:1px solid #CCCCCC; background:#EEEEEE; font-size:14px; font-weight:bold; color:#444444; padding:4px; }
+table.event-index-container td.e53 { border-right:1px solid #CCCCCC; background:#EEEEEE; padding:4px; }
+table.event-index-container td.e53 input { width:100%; padding:2px; }
+table.event-index-container td.e53 select { padding:2px; margin-right:4px; }
+table.event-index-container td.e53 textarea { width:100%; height:40px; padding:2px; }
+table.event-index-container td.e53 input.button { width:160px; background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; margin:2px; }
+table.event-index-container td.e54 { border-top:1px solid #CCCCCC; }
+

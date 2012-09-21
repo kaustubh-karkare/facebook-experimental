@@ -1,0 +1,62 @@
+table.homepage-column-left { width:183px; height:400px; margin-top:20px; }
+table.homepage-column-left td.hpl11 { width:10px; }
+table.homepage-column-left td.hpl11 img { margin:4px; margin-bottom:10px; }
+table.homepage-column-left td.hpl12 { height:50px; font-family:'Tahoma'; font-size:12px; }
+table.homepage-column-left td.hpl12 a { font-family:'Tahoma'; font-size:12px; }
+table.homepage-column-left td.hpl12 span a { font-weight:bold; }
+table.homepage-column-left td.hpl21 { height:25px; font-family:'Tahoma'; font-size:12px; padding:2px; }
+table.homepage-column-left td.hpl21:hover { background:#D8DFEA; cursor:pointer; }
+table.homepage-column-left td.hpl21 img { position:relative; top:2px; margin-left:10px; }
+
+
+table.homepage-column-center { width:520px; margin:10px; margin-bottom:15px; margin-top:20px; }
+table.homepage-column-center td.hpc11 { font-family:'Tahoma'; font-size:18px; font-weight:bold; }
+table.homepage-column-center td.hpc12 { font-family:'Tahoma'; font-size:12px; text-align:right; }
+table.homepage-column-center td.hpc12 a { font-family:'Tahoma'; font-size:12px; }
+
+
+table.homepage-column-right { width:260px; height:400px; margin-right:10px; margin-top:20px; }
+table.homepage-column-right td.hpr11 { font-family:'Tahoma'; font-size:12px; font-weight:bold; height:20px; padding:4px; border-bottom:1px solid #CCCCCC; }
+table.homepage-column-right td.hpr11 a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.homepage-column-right td.hpr12 { font-family:'Tahoma'; font-size:12px; height:10px; padding:2px; }
+table.homepage-column-right td.hpr12 a { font-family:'Tahoma'; font-size:12px; }
+table.homepage-column-right td.hpr12 div { font-family:'Tahoma'; font-size:12px; }
+table.homepage-column-right td.hpr12 img { position:relative; top:2px; }
+table.homepage-column-right td.hpr12 input { font-family:'Tahoma'; font-size:12px; width:247px; margin:2px; padding:2px; color:black; }
+table.homepage-column-right td.hpr12 textarea { font-family:'Tahoma'; font-size:12px; width:247px; margin:2px; padding:2px; color:black; height:40px; }
+table.homepage-column-right td.hpr12 input.submit { background:#627AAC; color:#FFFFFF; font-size:12px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; width:100px; }
+table.homepage-column-right td.hpr12 select { font-family:'Tahoma'; font-size:11px; margin:2px; padding:1px; margin-left:0; margin-right:0; }
+table.homepage-column-right td.hpr12 img.pic { top:0px; margin:4px; border:1px solid #29447E; }
+table.homepage-column-right td.hpr12 td { vertical-align:top; }
+table.homepage-column-right td.hpr12 td.info { font-family:'Tahoma'; font-size:12px; padding-top:4px; }
+table.homepage-column-right td.hpr12 td.info img { top:3px; }
+table.homepage-column-right td.hpr12 td.info span { position:relative; top:-3px; }
+table.homepage-column-right td.hpr12 div { height:2px; overflow:hidden;-o-transition: all 0.5s; -moz-transition: all 0.5s;-webkit-transition: all 0.5s; border-bottom:1px solid #CCCCCC; }
+table.homepage-column-right td.hpr13 { height:4px; }
+table.homepage-column-right td.hpr14 { height:10px; }
+
+
+table.friendindex { width:525px; margin:10px; }
+table.friendindex h2 { color:#222222; font-size:14px; font-weight:bold; font-family:'Tahoma'; margin-bottom:2px; padding-bottom:2px; border-bottom:1px solid #808080; }
+table.friendindex td { padding:4px; vertical-align:top; }
+table.friendindex td a { font-family:'Tahoma'; font-size:14px; font-weight:bold; }
+table.friendindex td span { font-family:'Tahoma'; font-size:12px; color:#404040; }
+table.friendindex td.pic { width:50px; }
+table.friendindex td.info1 { width:330px; }
+table.friendindex td.info2 { font-family:'Tahoma'; font-size:12px; }
+table.friendindex td.info2 span { font-family:'Tahoma'; font-size:12px; color:black; }
+table.friendindex td.info3 { font-family:'Tahoma'; font-size:11px; }
+table.friendindex td.info3 span { font-family:'Tahoma'; font-size:11px; color:black; }
+table.friendindex td input.accept { background:#627AAC; color:#FFFFFF; font-size:13px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; }
+table.friendindex td input.ignore { background:#EEEEEE; color:#222222; font-size:13px; font-weight:bold; font-family:'Tahoma'; border:1px solid #808080; padding:4px; }
+
+
+
+table.notify-container { width:525px; margin:10px; }
+table.notify-container th { text-align:right; padding:20px; }
+table.notify-container th a { font-family:'Tahoma'; font-size:12px; font-weight:normal; }
+table.notify-container td { padding:2px; font-family:'Tahoma'; font-size:12px; }
+table.notify-container td.pic { width:10px; }
+table.notify-container td a { font-family:'Tahoma'; font-size:12px; }
+table.notify-container td n { font-family:'Tahoma'; font-size:12px; color:#808080; }
+

@@ -1,0 +1,7 @@
+table.ad-container { margin:10px; margin-left:0px;  margin-top:20px; border-left:3px solid #E5E5E5; }
+table.ad-container th { font-family:'Tahoma'; font-size:12px; border-bottom:1px solid #E5E5E5; padding:8px; font-weight:bold; text-align:left;  }
+table.ad-container th a { font-family:'Tahoma'; font-size:12px; }
+table.ad-container td { font-family:'Tahoma'; font-size:12px; border-bottom:1px solid #E5E5E5; padding:8px; }
+table.ad-container td a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.ad-container td.bottom { border:0px solid white;  }
+table.ad-container td.bottom a { font-family:'Tahoma'; font-size:12px; font-weight:normal; }

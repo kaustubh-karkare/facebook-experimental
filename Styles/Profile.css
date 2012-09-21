@@ -1,0 +1,86 @@
+table.profile-container { width:200; margin-top:20px; }
+table.profile-container .pc01 img { width:100%; margin-bottom:2px; border:0px solid white; }
+
+table.profile-container .pc02 { border-bottom:1px solid #CED5DF; padding:3px; cursor:pointer; }
+table.profile-container .pc02,
+table.profile-container .pc02 a { font-family:'Tahoma'; font-size:11px; }
+
+table.profile-container .pc02:hover { background:#3B5998; color:white; }
+table.profile-container .pc02:hover a { color:white; }
+
+table.profile-container .pc03 { padding-top:20px; padding-bottom:20px; }
+table.profile-container .pc03 div { font-family:'Tahoma'; border:1px solid #D8DFEA; padding:4px; }
+table.profile-container .pc03 div textarea { font-family:'Tahoma'; }
+
+table.profile-container .pc04 { }
+table.profile-container .pc04 table { border-right:1px solid #D8DFEA; }
+table.profile-container .pc04 th { text-align:left; border-top:1px solid #94A3C4; padding:4px; background:#ECEFF5; font-family:'Tahoma'; font-size:12px; font-weight:bold; height:26px; }
+table.profile-container .pc04 th.edit { text-align:right; font-weight:normal; }
+table.profile-container .pc04 td.left { text-align:left; border-bottom:1px solid #CED5DF; padding:4px; }
+table.profile-container .pc04 td.right { text-align:right; border-bottom:1px solid #CED5DF; padding:4px; }
+table.profile-container .pc04 td.text p { font-family:'Tahoma'; font-size:11px; text-align:left; padding:4px; }
+table.profile-container .pc04 td.text p h { color:#666666; font-family:'Tahoma'; font-size:11px; }
+table.profile-container .pc04 td { width:60; overflow:hidden; text-align:center; padding:4px; vertical-align:top; }
+table.profile-container .pc04 td a { font-family:'Tahoma'; font-size:11px; }
+table.profile-container .pc04 td.bottom { height:20px; }
+table.profile-container .pc04 .finalbottom { border-bottom:1px solid #94A3C4; }
+
+/* pc-photos are inside .pc04 */
+
+table.pc-photos { width:100%; }
+table.pc-photos td.pic { text-align:left; width:50px; }
+table.pc-photos td.pic img { border:1px solid #29447E; }
+table.pc-photos td.info { text-align:left; width:100px; vertical-align:middle; font-family:'Tahoma'; font-size:11px; padding-left:0px; }
+table.pc-photos td.info a { font-weight:bold; }
+table.pc-photos td.text { font-family:'Tahoma'; font-size:12px; }
+
+table.profile-container .pc05 { height:20px; }
+
+td.tab-inactive a { padding:4px; font-family:'Tahoma'; font-size:14px; font-weight:bold; background:#D8DFEA; color:blue; }
+td.tab-active a { padding:4px; font-family:'Tahoma'; font-size:14px; color:black; font-weight:bold;
+	border-top:1px solid #D8DFEA; border-left:1px solid #D8DFEA; border-right:1px solid #D8DFEA; border-bottom:1px solid #FFFFFF; background:#FFFFFF; }
+td.tab-left { }
+td.tab-pad { padding-bottom:8px; font-family:'Tahoma'; font-size:14px; color:black; font-weight:bold; }
+td.tab-right { width:90%; }
+
+
+
+
+
+table.info-container { width:600px; margin:20px; margin-bottom:30px; }
+table.info-container td { font-family:'Tahoma'; padding:4px; }
+table.info-container td a { font-family:'Tahoma'; }
+
+table.info-container th.subhead { font-family:'Tahoma'; font-size:14px; text-align:left; border-top:1px solid #AAAAAA; color:black; padding:8px; padding-left:0; }
+table.info-container td.subhead { text-align:right; border-top:1px solid #AAAAAA; color:black; padding:8px; padding-left:0; }
+table.info-container td.subhead a { font-family:'Tahoma'; font-size:12px; }
+table.info-container th { font-family:'Tahoma'; font-size:11px; text-align:left; color:#666666; font-weight:bold; border-top:1px solid #E9E9E9; width:150px; }
+table.info-container td { border-top:1px solid #E9E9E9; font-size:11px; }
+table.info-container td a { font-size:11px; }
+
+table.edit-container { width:600px; margin:20px; margin-bottom:30px; }
+table.edit-container th { text-align:left; border-bottom:1px solid white; width:150px; padding:4px; }
+table.edit-container th:hover { background: #EFF2F7; }
+table.edit-container th.top { height:50px; }
+table.edit-container th.top:hover,
+table.edit-container th.bottom:hover { background:transparent; cursor:default; }
+table.edit-container th.active { font-weight:bold; background:#D8DFEA; border:1px solid #B3B3B3; border-right:0px solid white; }
+table.edit-container th img { height:15px; width:18px; position:relative; top:2px; }
+table.edit-container th { font-family:'Tahoma'; font-size:12px; color:#000000; font-weight:normal; cursor:pointer; }
+table.edit-container td { text-align:right; }
+table.edit-container td h2 { text-align:left; margin:10px; color:black; font-weight:bold; text-indent:50px; }
+table.edit-container td input.submit { background:#627AAC; color:#FFFFFF; font-size:14px; font-weight:bold; font-family:'Tahoma'; border:1px solid #29447E; padding:4px; margin:10px; width:150px; text-align:center; }
+table.edit-container td div { border:1px solid #B3B3B3; background:#F2F2F2; padding:4px; margin-bottom:10px; }
+table.edit-container td div table { width:100%; }
+table.edit-container td div td.left { font-family:'Tahoma'; font-size:12px; font-weight:bold; color:#666666; text-align:right; width:150px; padding-right:8px; }
+table.edit-container td div td.left2 { text-align:center; width:100px; font-family:'Tahoma'; font-size:12px; }
+table.edit-container td div td.left2 a { font-family:'Tahoma'; font-size:12px; }
+table.edit-container td div td.left2 img { width:200px; padding:10px; }
+table.edit-container td div td.mid2 { font-family:'Tahoma'; font-size:12px; text-align:center; }
+table.edit-container td div td.mid2 input { border:1px solid #BDC7D8; padding:2px; margin:2px; width:80%; font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.edit-container td div td.mid { width:300px; font-family:'Tahoma'; font-size:12px; text-align:left; }
+table.edit-container td div td.mid select { border:1px solid #BDC7D8; padding:2px; margin:2px; font-family:'Tahoma'; font-size:12px; }
+table.edit-container td div td.mid input { border:1px solid #BDC7D8; padding:2px; margin:2px; width:100%; font-family:'Tahoma'; font-size:12px; }
+table.edit-container td div td.mid textarea { border:1px solid #BDC7D8; padding:2px; margin:2px; width:100%; height:50px; font-family:'Tahoma'; font-size:12px; }
+table.edit-container td div td.hr { padding:10px; }
+table.edit-container td div td.hr hr { color:#F2F2F2; }

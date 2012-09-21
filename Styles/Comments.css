@@ -1,0 +1,22 @@
+table.comments-container { width:425px; }
+table.comments-container div.caption { font-family:'Tahoma'; font-size:13px; padding:4px; }
+table.comments-container div.caption textarea { font-family:'Tahoma'; font-size:12px; padding:4px; width:100%; border:1px solid white; }
+table.comments-container div.caption textarea:focus,
+table.comments-container div.caption textarea:hover { border:1px solid #808080; }
+
+table.comments-container div.top { font-family:'Tahoma'; font-size:12px; padding:4px; }
+table.comments-container div.top a { font-family:'Tahoma'; font-size:12px; }
+table.comments-container td { background:#EDEFF4; padding:4px; font-family:'Tahoma'; font-size:12px; vertical-align:top; }
+table.comments-container td a { font-family:'Tahoma'; font-size:12px; }
+table.comments-container td.top { margin:0px; padding:0px; background:white; }
+table.comments-container td.top img { padding:0px; height:5px; }
+table.comments-container td.pic { width:20px; }
+table.comments-container td.pic img { height:35px; width:35px; }
+table.comments-container td.text { padding-left:0px; }
+table.comments-container td.text div { font-family:'Tahoma'; font-size:11px; font-weight:normal; color:#808080; margin-top:8px; }
+table.comments-container td.text div a { font-family:'Tahoma'; font-size:11px; font-weight:normal; }
+table.comments-container td.text a { font-family:'Tahoma'; font-size:12px; font-weight:bold; }
+table.comments-container td.text textarea { width:375px; height:35px; padding:4px; border:1px solid #BDC7D8; font-family:'Tahoma'; font-size:11px; color:#444444; }
+table.comments-container td.text div.new { text-align:right; display:none; }
+table.comments-container td.text div.new input { font-family:'Tahoma'; font-size:12px; font-weight:bold; padding:4px; margin:4px; color:#FFFFFF; background:#5F78AB; border:1px solid #29447E; }
+table.comments-container td.hpad { padding:0px; height:2px; background:transparent; }
